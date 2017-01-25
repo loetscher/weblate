@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Bundle-Name: org.eclipse.core.databinding Thai NLS Support
-Bundle-SymbolicName: org.eclipse.core.databinding.nl_th ;singleton=true
-Bundle-Version: 4.6.0.v20161126060001
-Bundle-Vendor: Eclipse.org
-Fragment-Host: org.eclipse.core.databinding

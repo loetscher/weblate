@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Bundle-Name: org.eclipse.jface Hungarian NLS Support
-Bundle-SymbolicName: org.eclipse.jface.nl_hu ;singleton=true
-Bundle-Version: 4.6.0.v20161126060001
-Bundle-Vendor: Eclipse.org
-Fragment-Host: org.eclipse.jface
