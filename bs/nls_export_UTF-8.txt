@@ -1,4 +1,5 @@
 ﻿id	RefModel	Command	Type	status_de	locale_de	status_en	locale_en	status_fr	locale_fr	Comment
+id	RefModel	Command	Type	status_de	locale_de	status_en	locale_en	status_fr	locale_fr	Comment
 Standard_2681537	Standard		caption	final	"Status"	final	"Status"	final	"État"	"<NO_COMMENT>"
 Standard_6760620	Standard		caption	final	"Personalnummer"	final	"Personnel number"	final	"Numéro personnel"	"US1006"
 Standard_2686884	Standard		caption	final	"Zusatz"	final	"Extension"	final	"Complément"	"<NO_COMMENT>"
