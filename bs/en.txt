@@ -1,5 +1,5 @@
 id,locale_en,RefModel,Command,Type,status_en,,Comment
-Standard_0000002,,Standard,,caption,final,Test für Weblate Translation process
+Standard_0000002,"",Standard,,caption,final,Test für Weblate Translation process
 Standard_2681537,Status,Standard,,caption,final,,<NO_COMMENT>
 Standard_6760620,Personnel number,Standard,,caption,final,,US1006
 Standard_2686884,Extension,Standard,,caption,final,,<NO_COMMENT>
