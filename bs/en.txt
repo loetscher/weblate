@@ -1,6 +1,6 @@
 "source","target"
 "id","locale_en"
-"Standard_0000002","Dies ist ein Test. Die Übersetzung erfolgt via Weblate"
+"Standard_0000002",""
 "Standard_2681537","Status"
 "Standard_6760620","Personnel number"
 "Standard_2686884","Extension"
