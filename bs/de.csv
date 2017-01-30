@@ -1,0 +1,525 @@
+id;locale_de;RefModel;Command;Type;status_de;Comment
+Standard_2681537;Status;Standard;;caption;final;<NO_COMMENT>
+Standard_6760620;Personalnummer;Standard;;caption;final;US1006
+Standard_2686884;Zusatz;Standard;;caption;final;<NO_COMMENT>
+Standard_6959377;ShowDuplicate;Standard;;caption;final;Created by Wcl Migration
+Standard_2680092;Organisationseinheit;Standard;;caption;final;<NO_COMMENT>
+Standard_5483104;Zugeordnet zu Anlage;Standard;;caption;exported;Assigned to Asset
+Standard_2689942;Adresszeile 3;Standard;;caption;final;<NO_COMMENT>
+Standard_5504013;Segment;Standard;;title;final;<NO_COMMENT>
+Standard_2701319;Grosskunden PLZ;Standard;;caption;final;<NO_COMMENT>
+Standard_2691616;Überg. Geografie;Standard;;caption;final;<NO_COMMENT>
+Standard_2678982;Nummer;Standard;;caption;final;<NO_COMMENT>
+Standard_6959216;Kontakte abgleichen;Standard;;caption;final;Created by Wcl Migration
+Standard_5504008;Adresse;Standard;;title;final;<NO_COMMENT>
+Standard_2720445;Termine;Standard;;caption;final;<NO_COMMENT>
+Standard_2689941;Adresszeile 2;Standard;;caption;final;<NO_COMMENT>
+Standard_2684258;Nein;Standard;;caption;final;<NO_COMMENT>
+Standard_6023568;Alte Adressnummer [LWC];Standard;;caption;final;Alte Adressnummer [low level code]
+Standard_2713478;Kontakt mit Adr.;Standard;;caption;final;<NO_COMMENT>
+Standard_2713436;Abgeschlossen;Standard;;caption;final;<NO_COMMENT>
+Standard_2689975;Partner-Name;Standard;;caption;final;<NO_COMMENT>
+Standard_2759033;Personenart Code;Standard;;caption;exported;<NO_COMMENT>
+Standard_2689235;Zusatzinformation;Standard;;caption;final;<NO_COMMENT>
+Standard_5573137;Telefon G;Standard;;caption;final;Telefon G
+Standard_2730692;Werbecodes;Standard;;caption;final;<NO_COMMENT>
+Standard_2759040;Person Nummer;Standard;;caption;exported;<NO_COMMENT>
+Standard_2684792;Versicherungsnr. 2;Standard;;caption;final;<NO_COMMENT>
+Standard_2759037;Kommentar E-Mail Geschäft;Standard;;caption;final;Comment company eMail
+Standard_2713422;Partner anzeigen;Standard;;caption;final;<NO_COMMENT>
+Standard_2686034;Sprache;Standard;;caption;final;<NO_COMMENT>
+Standard_2713469;Zielgruppen;Standard;;caption;final;<NO_COMMENT>
+Standard_5504354;Personenbeziehungsart;Standard;;title;final;<NO_COMMENT>
+Standard_5503430;Zuordnung Land-Geografiegruppe;Standard;;title;final;<NO_COMMENT>
+Standard_2691056;Adressenstandort;Standard;;caption;final;<NO_COMMENT>
+Standard_2689976;Geschlecht;Standard;;caption;final;<NO_COMMENT>
+Standard_2690260;Ort;Standard;;caption;final;<NO_COMMENT>
+Standard_2724324;Adresse Detail;Standard;;caption;final;<NO_COMMENT>
+Standard_2686519;ME;Standard;;caption;final;<NO_COMMENT>
+Standard_5506005;Internettelefon;Standard;;caption;final;as is
+Standard_2717000;Anhang;Standard;;caption;final;<NO_COMMENT>
+Standard_6958958;Als Hauptadresse markieren;Standard;;caption;final;Created by Wcl Migration
+Standard_2679162;Produkt;Standard;;caption;final;<NO_COMMENT>
+Standard_2698949;Verantwortung;Standard;;caption;final;<NO_COMMENT>
+Standard_2705477;Aktionär;Standard;;caption;final;<NO_COMMENT>
+Standard_2713639;Adressnummer;Standard;;caption;final;<NO_COMMENT>
+Standard_5837437;Restriktion 4;Standard;;caption;exported;Restriktion 4
+Standard_5502679;Kontokorrent mit Tankstelle;Standard;;caption;exported;flag for currentaccount
+Standard_2692390;Raum;Standard;;caption;final;<NO_COMMENT>
+Standard_2689331;Personen-Beziehung;Standard;;caption;final;<NO_COMMENT>
+Standard_2696061;ISO Landcode;Standard;;caption;final;<NO_COMMENT>
+Standard_2689328;Bezirk;Standard;;caption;final;<NO_COMMENT>
+Standard_2713427;Beziehungen;Standard;;caption;final;<NO_COMMENT>
+Standard_2687629;Anzahl Kontakte;Standard;;caption;final;<NO_COMMENT>
+Standard_2689950;Anrede;Standard;;caption;final;<NO_COMMENT>
+Standard_2682388;Adresse;Standard;;caption;final;<NO_COMMENT>
+Standard_2689344;View Name;Standard;;caption;final;<NO_COMMENT>
+Standard_2718155;Mitarbeiter Detail;Standard;;caption;final;<NO_COMMENT>
+Standard_2678826;Gültig bis;Standard;;caption;final;<NO_COMMENT>
+Standard_2705474;Kein Mitglied;Standard;;caption;final;<NO_COMMENT>
+Standard_2692395;Partner-Nummer;Standard;;caption;final;<NO_COMMENT>
+Standard_2678825;Gültig von;Standard;;caption;final;<NO_COMMENT>
+Standard_2680601;Nummer;Standard;;caption;final;<NO_COMMENT>
+Standard_2683776;Kurzadresse;Standard;;caption;final;<NO_COMMENT>
+Standard_6959612;Neu (optimierte Erfassung);Standard;;caption;final;Created by Wcl Migration
+Standard_2689965;Juristische Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2713431;Projektverwaltung;Standard;;caption;final;<NO_COMMENT>
+Standard_2689951;Anrede formell;Standard;;caption;final;<NO_COMMENT>
+Standard_2694042;Berechnetes Feld;Standard;;caption;final;<NO_COMMENT>
+Standard_2689329;Person Segment;Standard;;caption;final;<NO_COMMENT>
+Standard_6958211;Bearbeiten;Standard;;caption;final;Created by Wcl Migration
+Standard_2681445;Dimensionen;Standard;;caption;final;<NO_COMMENT>
+Standard_2693928;Zielerreichung %;Standard;;caption;final;<NO_COMMENT>
+Standard_2690151;Umsatz;Standard;;caption;final;<NO_COMMENT>
+Standard_2695147;Niederlassung;Standard;;caption;final;<NO_COMMENT>
+Standard_2679495;Lieferant;Standard;;caption;final;<NO_COMMENT>
+Standard_2733238;/;Standard;;text;final;<NO_COMMENT>
+Standard_2713508;Übergeordnete Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2689940;Adresszeile 1;Standard;;caption;final;<NO_COMMENT>
+Standard_5483094;X-Koordinate;Standard;;caption;exported;X-Coordinate
+Standard_2728067;Bezeichnung Region;Standard;;caption;final;<NO_COMMENT>
+Standard_5503956;Adressenstandort;Standard;;title;final;<NO_COMMENT>
+Standard_6959545;Person bearbeiten;Standard;;caption;final;Created by Wcl Migration
+Standard_2702826;Firma;Standard;;caption;final;<NO_COMMENT>
+Standard_2690129;Verantwortlich;Standard;;caption;final;<NO_COMMENT>
+Standard_2687775;Restriktion;Standard;;caption;final;<NO_COMMENT>
+Standard_5573135;E-Mail G;Standard;;caption;final;E-Mail Geschäft
+Standard_2759673;Weitere Adresszeilen;Standard;;caption;exported;<NO_COMMENT>
+Standard_2717945;Freigabe Personenart;Standard;;caption;final;<NO_COMMENT>
+Standard_2681956;Funktion;Standard;;caption;final;<NO_COMMENT>
+Standard_5483796;Adress-Erweiterung;Standard;;caption;final;R56843
+Standard_2689923;Einmaladresse;Standard;;caption;final;<NO_COMMENT>
+Standard_5511895;PLZ / Zusatz;Standard;;caption;final;Postleitzahl / Zusatz PLZ
+Standard_2710543;Freie Felder;Standard;;caption;final;<NO_COMMENT>
+Standard_2690984;Journal;Standard;;caption;final;<NO_COMMENT>
+Standard_2682025;PLZ;Standard;;caption;final;<NO_COMMENT>
+Standard_2687782;Andere;Standard;;caption;final;<NO_COMMENT>
+Standard_5483085;Längengrad;Standard;;caption;exported;Longitude
+Standard_2685149;Branche;Standard;;caption;final;<NO_COMMENT>
+Standard_2713435;Prov. abgeschlossen;Standard;;caption;final;<NO_COMMENT>
+Standard_6963978;Unternehmens-Profil;Standard;;caption;final;US12966
+Standard_5837302;Restriktion 1;Standard;;caption;exported;Restriktion 1
+Standard_5504781;Geografie;Standard;;title;final;<NO_COMMENT>
+Standard_2686024;Zuordn. Ort/Region;Standard;;caption;final;<NO_COMMENT>
+Standard_6958659;Schnellerfassung;Standard;;caption;final;Created by Wcl Migration
+Standard_2732667;Bitte wählen Sie einen Segmenttyp aus.;Standard;;instruction;final;<NO_COMMENT>
+Standard_5505990;Karte;Standard;;caption;final;As is
+Standard_5511993;PLZ-Z.;Standard;;caption;final;Zusatz Postleitzahl (PLZ)
+Standard_2691790;Adressherkunft;Standard;;caption;final;<NO_COMMENT>
+Standard_2759048;Objekt Nummer Adresse;Standard;;caption;exported;<NO_COMMENT>
+Standard_2692584;Beziehungsart;Standard;;caption;final;<NO_COMMENT>
+Standard_2684992;Bisonobjekt;Standard;;caption;final;<NO_COMMENT>
+Standard_2711158;Personen;Standard;;caption;final;<NO_COMMENT>
+Standard_2727196;Kommunikationsnr.;Standard;;caption;final;<NO_COMMENT>
+Standard_2691060;Anredecode;Standard;;caption;final;<NO_COMMENT>
+Standard_5506101;Gebäudename / Nr.;Standard;;caption;exported;Building name or number
+Standard_2713637;Unternehmen/GE mit Adr.;Standard;;caption;final;<NO_COMMENT>
+Standard_2759041;Person Name;Standard;;caption;exported;<NO_COMMENT>
+Standard_2701662;Lieferant;Standard;;caption;final;<NO_COMMENT>
+Standard_2699582;Partnerkontakt;Standard;;caption;final;<NO_COMMENT>
+Standard_5573124;Mobile P;Standard;;caption;final;Mobile P
+Standard_5581518;Spesentyp;Standard;;caption;final;expense type
+Standard_6959311;Aktiv / Inaktiv;Standard;;caption;final;Created by Wcl Migration
+Standard_2694951;Strasse;Standard;;caption;final;<NO_COMMENT>
+Standard_2685341;Geografiegruppe;Standard;;caption;final;<NO_COMMENT>
+Standard_2718670;Allgemein;Standard;;caption;final;<NO_COMMENT>
+Standard_2695851;Hauptfunktion;Standard;;caption;final;<NO_COMMENT>
+Standard_6959538;Person in Kunde überführen;Standard;;caption;final;Created by Wcl Migration
+Standard_2686427;Kategorie;Standard;;caption;final;<NO_COMMENT>
+Standard_2718188;Mitarbeiter Zusatz;Standard;;caption;final;<NO_COMMENT>
+Standard_2759056;Person Bezeichnung;Standard;;caption;exported;<NO_COMMENT>
+Standard_5511887;Gebäude / Nr.;Standard;;caption;final;Gebäudename oder Strassen Nr.
+Standard_2688252;Hauptsitz;Standard;;caption;final;<NO_COMMENT>
+Standard_2732672;Segment auswählen;Standard;;title;final;<NO_COMMENT>
+Standard_2709802;Notizen;Standard;;caption;final;<NO_COMMENT>
+Standard_2759049;Adresse Code;Standard;;caption;exported;<NO_COMMENT>
+Standard_5504357;Zuordnung Ort - Region;Standard;;title;final;<NO_COMMENT>
+Standard_2689979;Anzahl Kinder;Standard;;caption;final;<NO_COMMENT>
+Standard_2690448;Personenart;Standard;;caption;final;<NO_COMMENT>
+Standard_2758913;Sprache Bezeichnung;Standard;;caption;exported;<NO_COMMENT>
+Standard_5511893;Strasse | Gebäude | Nr.;Standard;;caption;final;Strasse | Gebäude | Nr.
+Standard_2721647;Allgemein 1;Standard;;caption;final;<NO_COMMENT>
+Standard_2718524;Betreute Unternehmungen;Standard;;caption;final;<NO_COMMENT>
+Standard_5573136;Mobile G;Standard;;caption;final;Mobile G
+Standard_2695669;Geografiecode;Standard;;caption;final;<NO_COMMENT>
+Standard_2725437;Notizen;Standard;;caption;final;<NO_COMMENT>
+Standard_2678839;Typ;Standard;;caption;final;<NO_COMMENT>
+Standard_2719241;Telefon Firma;Standard;;caption;final;<NO_COMMENT>
+Standard_2727976;Partnername;Standard;;caption;final;<NO_COMMENT>
+Standard_2689977;Männlich;Standard;;caption;final;<NO_COMMENT>
+Standard_2689926;Adresstyp;Standard;;caption;final;<NO_COMMENT>
+Standard_5573123;Fax G;Standard;;caption;final;Fax G
+Standard_6958725;Suche nach Kommunikationsnummer;Standard;;caption;final;Created by Wcl Migration
+Standard_6963999;Segment-name;Standard;;caption;final;US12966
+Standard_5504014;Zuordnung Person - Segment;Standard;;title;final;<NO_COMMENT>
+Standard_2718238;Benutzer-Zuweisung;Standard;;caption;final;<NO_COMMENT>
+Standard_2692646;Verteiler;Standard;;caption;final;<NO_COMMENT>
+Standard_6958685;PLZ-Zuweisung ändern;Standard;;caption;final;Created by Wcl Migration
+Standard_2709870;Fälligkeit;Standard;;caption;final;<NO_COMMENT>
+Standard_2692586;Nach Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2693528;UDC Verkauf;Standard;;caption;final;<NO_COMMENT>
+Standard_5575552;Hauswart;Standard;;caption;final;R78410
+Standard_2718523;Partnerschaften;Standard;;caption;final;<NO_COMMENT>
+Standard_2685370;Geschäftsbereich;Standard;;caption;final;<NO_COMMENT>
+Standard_5503965;Personenart;Standard;;title;final;<NO_COMMENT>
+Standard_2760157;Personenbezeichnung;Standard;;caption;exported;Perrel Description
+Standard_2679159;Inaktiv;Standard;;caption;final;<NO_COMMENT>
+Standard_2689978;Weiblich;Standard;;caption;final;<NO_COMMENT>
+Standard_2710688;Menge;Standard;;caption;final;<NO_COMMENT>
+Standard_5575553;Tel. Hauswart;Standard;;caption;final;R78410
+Standard_2729593;General;Standard;;caption;final;<NO_COMMENT>
+Standard_2702994;Freier Text 2;Standard;;caption;final;<NO_COMMENT>
+Standard_2692585;Von Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2705476;Passiv/Mitglied;Standard;;caption;final;<NO_COMMENT>
+Standard_2679664;Beschreibung;Standard;;caption;final;<NO_COMMENT>
+Standard_5504087;Zuordnung Personenart - Beziehungsart;Standard;;title;final;<NO_COMMENT>
+Standard_2685085;Unternehmen;Standard;;caption;final;<NO_COMMENT>
+Standard_2719245;Korrespond. Firma;Standard;;caption;final;<NO_COMMENT>
+Standard_2713460;Geschäftsadressen;Standard;;caption;final;<NO_COMMENT>
+Standard_2701317;Postfach PLZ;Standard;;caption;final;<NO_COMMENT>
+Standard_5483095;Y-Koordinate;Standard;;caption;exported;Y-Coordinate
+Standard_2730529;Ort;Standard;;caption;final;<NO_COMMENT>
+Standard_2717956;Zugeteilte Ortschaft;Standard;;caption;final;<NO_COMMENT>
+Standard_2757450;Weitere Kriterien;Standard;;caption;exported;Wird für die weiteren Kriterien in den Expander Groups der Search verwendet
+Standard_2713509;Untergeordnete Personen;Standard;;caption;final;<NO_COMMENT>
+Standard_2727180;Zuordnung Werbecode - Kontakt;Standard;;caption;final;<NO_COMMENT>
+Standard_2719240;Firma / Name;Standard;;caption;final;<NO_COMMENT>
+Standard_5503495;Kategorieart;Standard;;title;final;<NO_COMMENT>
+Standard_2713468;Funktionen;Standard;;caption;final;<NO_COMMENT>
+Standard_2690598;Arbeitgeber;Standard;;caption;final;<NO_COMMENT>
+Standard_5483941;Link;Standard;;caption;exported;link
+Standard_2713432;Projekte;Standard;;caption;final;<NO_COMMENT>
+Standard_6959023;Werbecode Suchen;Standard;;caption;final;Created by Wcl Migration
+Standard_2706008;Aufruf;Standard;;caption;final;<NO_COMMENT>
+Standard_2689973;Rufname;Standard;;caption;final;<NO_COMMENT>
+Standard_2710285;Kontakte;Standard;;caption;final;<NO_COMMENT>
+Standard_5503447;Zolltarifnummer je Geografie;Standard;;title;final;<NO_COMMENT>
+Standard_6023564;Alte Personennr.;Standard;;caption;final;Alte Personennummer
+Standard_2692416;Überg. Partnersch.;Standard;;caption;final;<NO_COMMENT>
+Standard_2705475;Mitglied;Standard;;caption;final;<NO_COMMENT>
+Standard_2691064;Beziehungsart-Code;Standard;;caption;final;<NO_COMMENT>
+Standard_2697082;Firmennummer;Standard;;caption;final;<NO_COMMENT>
+Standard_2689495;Sichtbar;Standard;;caption;final;<NO_COMMENT>
+Standard_2689937;Temporär;Standard;;caption;final;<NO_COMMENT>
+Standard_2694661;Leiter;Standard;;caption;final;<NO_COMMENT>
+Standard_6959283;Arbeitgeberwechsel für Kontakt ;Standard;;caption;final;Created by Wcl Migration
+Standard_2732673;Bitte wählen Sie ein Segment aus.;Standard;;instruction;final;<NO_COMMENT>
+Standard_5723531;Namenszusatz;Standard;;caption;final;Namenszusatz
+Standard_2727198;Meine Beziehungen;Standard;;caption;final;<NO_COMMENT>
+Standard_2713421;Lieferant anzeigen;Standard;;caption;final;<NO_COMMENT>
+Standard_2693613;Geo-Grp-Beziehung;Standard;;caption;final;<NO_COMMENT>
+Standard_2719242;Fax Firma;Standard;;caption;final;<NO_COMMENT>
+Standard_2728735;Auswahl Personenbeziehungsart;Standard;;caption;final;<NO_COMMENT>
+Standard_2713423;Kontakt Detail;Standard;;caption;final;<NO_COMMENT>
+Standard_2713634;Unternehmen Zusatz;Standard;;caption;final;<NO_COMMENT>
+Standard_2713428;Übergeordnete Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2693615;Ortszuordnung;Standard;;caption;final;<NO_COMMENT>
+Standard_2681151;In Bearbeitung;Standard;;caption;final;In progress
+Standard_5483093;Breitengrad;Standard;;caption;exported;Latitude
+Standard_6959221;Partner dieser Person anzeigen;Standard;;caption;final;Created by Wcl Migration
+Standard_5483785;Defaultkontakt;Standard;;caption;exported;<NO_COMMENT>
+Standard_2685525;Gebucht;Standard;;caption;final;<NO_COMMENT>
+Standard_5503419;Zuordnung Geografie;Standard;;title;final;<NO_COMMENT>
+Standard_6958552;Person in Zielgruppe hinzufügen;Standard;;caption;final;Created by Wcl Migration
+Standard_5504016;Bezirk;Standard;;title;final;<NO_COMMENT>
+Standard_2695706;Zuordnung Geografie;Standard;;caption;final;<NO_COMMENT>
+Standard_6023563;Alte Personennr. [LWC];Standard;;caption;final;Alte Personennummer [low level code]
+Standard_2699505;Geschäftsreg. Verkauf;Standard;;caption;final;<NO_COMMENT>
+Standard_2687545;Löschung vorgemerkt;Standard;;caption;final;<NO_COMMENT>
+Standard_2683197;Bemerkung;Standard;;caption;final;<NO_COMMENT>
+Standard_2726969;PLZ;Standard;;caption;final;<NO_COMMENT>
+Standard_2700291;Ortsteil;Standard;;caption;final;<NO_COMMENT>
+Standard_2759032;Benützer Identifikation;Standard;;caption;exported;<NO_COMMENT>
+Standard_2682814;Status;Standard;;caption;final;Status
+Standard_2710369;Schnellerfassung;Standard;;caption;final;<NO_COMMENT>
+Standard_2698381;EU-Ländercode;Standard;;caption;final;<NO_COMMENT>
+Standard_2728066;Bezeichnung Land;Standard;;caption;final;<NO_COMMENT>
+Standard_2692006;Hauptadresse;Standard;;caption;final;<NO_COMMENT>
+Standard_5503431;Zuordnung Ort-Geographiegruppe;Standard;;title;final;<NO_COMMENT>
+Standard_2732662;Personenart;Standard;;title;final;<NO_COMMENT>
+Standard_2678884;Bezeichnung;Standard;;caption;final;<NO_COMMENT>
+Standard_5504012;Person;Standard;;title;final;<NO_COMMENT>
+Standard_2695668;Geo. Zolltarif-Nr.;Standard;;caption;final;<NO_COMMENT>
+Standard_2679161;Zustand;Standard;;caption;final;<NO_COMMENT>
+Standard_2696091;Kommunikations-Nr.;Standard;;caption;final;<NO_COMMENT>
+Standard_6964058;Profildaten-Element;Standard;;title;final;Profile Data Item
+Standard_2710533;Aktivitäten;Standard;;caption;final;<NO_COMMENT>
+Standard_2691057;Standortnummer;Standard;;caption;final;<NO_COMMENT>
+Standard_6959675;Zuteilen Ortschaften;Standard;;caption;final;Created by Wcl Migration
+Standard_2679519;Name;Standard;;caption;final;<NO_COMMENT>
+Standard_5837303;Restriktion 2;Standard;;caption;exported;Restriktion 2
+Standard_2679707;Text;Standard;;caption;final;<NO_COMMENT>
+Standard_5503944;Virtuelle Entität für Modul Address;Standard;;title;final;<NO_COMMENT>
+Standard_2680511;Name;Standard;;caption;final;<NO_COMMENT>
+Standard_2678824;Ja;Standard;;caption;final;<NO_COMMENT>
+Standard_2713575;Übergeordnete Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2704126;Mengen;Standard;;caption;final;<NO_COMMENT>
+Standard_2689928;Ferienadresse;Standard;;caption;final;<NO_COMMENT>
+Standard_2684018;Land;Standard;;caption;final;<NO_COMMENT>
+Standard_2759059;Land Bezeichnung;Standard;;caption;exported;<NO_COMMENT>
+Standard_2695865;Unternehmen/GE;Standard;;caption;final;<NO_COMMENT>
+Standard_2684571;Partner;Standard;;caption;final;<NO_COMMENT>
+Standard_2732666;Segmenttyp auswählen;Standard;;title;final;<NO_COMMENT>
+Standard_2713429;Untergeordnete Personen;Standard;;caption;final;<NO_COMMENT>
+Standard_5504010;Anredecode;Standard;;title;final;<NO_COMMENT>
+Standard_2690237;Zusatz PLZ;Standard;;caption;final;<NO_COMMENT>
+Standard_2678996;Normal;Standard;;caption;final;<NO_COMMENT>
+Standard_2713477;Kontakt Zusatz;Standard;;caption;final;<NO_COMMENT>
+Standard_2692319;Provisionsmodell;Standard;;caption;final;<NO_COMMENT>
+Standard_6958795;Person / Segment bearbeiten;Standard;;caption;final;Created by Wcl Migration
+Standard_2692322;Anzahl Customizer;Standard;;caption;final;<NO_COMMENT>
+Standard_2686044;Notiz;Standard;;caption;final;<NO_COMMENT>
+Standard_2684790;Zweiter Vorname;Standard;;caption;final;<NO_COMMENT>
+Standard_2722674;Allgemein;Standard;;caption;final;<NO_COMMENT>
+Standard_2681155;Bereit Reorganisation;Standard;;caption;final;<NO_COMMENT>
+Standard_2690447;Partnerschaftsart;Standard;;caption;final;<NO_COMMENT>
+Standard_2701318;Postfach Ort;Standard;;caption;final;<NO_COMMENT>
+Standard_2685088;Firmensegment;Standard;;caption;final;<NO_COMMENT>
+Standard_2692323;Anzahl Projektleiter;Standard;;caption;final;<NO_COMMENT>
+Standard_2722234;Zuordnung Geografiegruppe;Standard;;caption;final;<NO_COMMENT>
+Standard_5502680;Kontokorrent Typ;Standard;;caption;exported;flag for currentaccount
+Standard_2678829;Objektnummer;Standard;;caption;final;<NO_COMMENT>
+Standard_2700825;Kontokorrent Gebinde;Standard;;caption;final;<NO_COMMENT>
+Standard_6943951;test;Standard;;caption;final;Created by Biz Migration.
+Standard_2688660;Einzelunternehmen;Standard;;caption;final;<NO_COMMENT>
+Standard_6958217;Löschen;Standard;;caption;final;Created by Wcl Migration
+Standard_2680605;PLZ / Ort / Land;Standard;;caption;final;<NO_COMMENT>
+Standard_2688168;Zugeord. Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2759067;Adresse Text;Standard;;caption;exported;<NO_COMMENT>
+Standard_5503445;Mandantenadresse;Standard;;title;final;<NO_COMMENT>
+Standard_2689933;Standort;Standard;;caption;final;<NO_COMMENT>
+Standard_2713666;Übergeordnete Personen;Standard;;caption;final;<NO_COMMENT>
+Standard_2680613;Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2689972;Kurzzeichen;Standard;;caption;final;<NO_COMMENT>
+Standard_2713583;Besuchsverwaltung;Standard;;caption;final;<NO_COMMENT>
+Standard_2716791;Allgemein;Standard;;caption;final;<NO_COMMENT>
+Standard_6701286;GLN;Standard;;caption;final;Global Location Number
+Standard_2680518;Ort;Standard;;caption;final;<NO_COMMENT>
+Standard_2710273;Anfragen;Standard;;caption;final;<NO_COMMENT>
+Standard_2689967;Letzter Kontakt;Standard;;caption;final;<NO_COMMENT>
+Standard_2695145;Anzahl Mitarbeiter;Standard;;caption;final;<NO_COMMENT>
+Standard_5504009;Adressen-Zusatz;Standard;;title;final;<NO_COMMENT>
+Standard_2684705;Detail;Standard;;caption;final;<NO_COMMENT>
+Standard_2678828;Entitätsstruktur;Standard;;caption;final;<NO_COMMENT>
+Standard_5503418;Geografiegruppe;Standard;;title;final;<NO_COMMENT>
+Standard_6958216;Neu;Standard;;caption;final;Created by Wcl Migration
+Standard_2685497;Betreff;Standard;;caption;final;<NO_COMMENT>
+Standard_2694234;Abteilung;Standard;;caption;final;<NO_COMMENT>
+Standard_2713451;Besuche;Standard;;caption;final;<NO_COMMENT>
+Standard_2759030;Objekt Nummer Benützer;Standard;;caption;exported;<NO_COMMENT>
+Standard_2679229;Typ;Standard;;caption;final;<NO_COMMENT>
+Standard_2689964;Personentyp;Standard;;caption;final;<NO_COMMENT>
+Standard_2679812;Aktivität;Standard;;caption;final;<NO_COMMENT>
+Standard_2713571;Unternehmen Detail;Standard;;caption;final;<NO_COMMENT>
+Standard_2678995;Verwendung;Standard;;caption;final;<NO_COMMENT>
+Standard_2699185;Geschäftseinheit;Standard;;caption;final;<NO_COMMENT>
+Standard_5579449;Suchbegriff Person;Standard;;caption;final;specify caption
+Standard_2684502;E-Mail;Standard;;caption;final;eMail
+Standard_2685128;Beziehung;Standard;;caption;final;<NO_COMMENT>
+Standard_6958209;Anzeigen;Standard;;caption;final;Created by Wcl Migration
+Standard_5564230;Von Jahr;Standard;;caption;final;<NO_COMMENT>
+Standard_2689945;Opt. Bestimm. Ort;Standard;;caption;final;<NO_COMMENT>
+Standard_I78BSG9OR88U93EKHUAHKGSCQ0;Neuaufbau Mischkonten-Hierarchie;Standard;;caption;final;Rebuild hierarchy for mix accounts
+Standard_2716774;Auswahl Werbecode;Standard;;caption;final;<NO_COMMENT>
+Standard_2759035;Organisationsfunktion Bezeichnung;Standard;;caption;exported;<NO_COMMENT>
+Standard_6959111;Kunde dieser Person anzeigen;Standard;;caption;final;Created by Wcl Migration
+Standard_5507511;Bitte wählen sie eine Person aus;Standard;;instruction;exported;The user must select a person for further processing
+Standard_2678823;Nein;Standard;;caption;final;<NO_COMMENT>
+Standard_2689943;Adresszeile 4;Standard;;caption;final;<NO_COMMENT>
+Standard_5490656;Weitere Kriterien;Standard;;caption;final;Weitere Kriterien
+Standard_2697081;Geburtsort;Standard;;caption;final;<NO_COMMENT>
+Standard_2689966;Natürliche Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2722241;Zugeteiltes Land;Standard;;caption;final;<NO_COMMENT>
+Standard_5482754;Webseite;Standard;;caption;exported;Webseite
+Standard_2684604;Extern;Standard;;caption;final;<NO_COMMENT>
+Standard_5507526;Lieferant erfasst;Standard;;caption;exported;Is address used for a supplier
+Standard_2730565;PLZ;Standard;;caption;final;<NO_COMMENT>
+Standard_2690951;Jahresumsatz / Ist;Standard;;caption;final;<NO_COMMENT>
+Standard_2681154;Annulliert;Standard;;caption;final;<NO_COMMENT>
+Standard_2759029;Objekt Nummer Person;Standard;;caption;exported;<NO_COMMENT>
+Standard_2716776;Werbecode;Standard;;caption;final;<NO_COMMENT>
+Standard_2713467;Segmente;Standard;;caption;final;<NO_COMMENT>
+Standard_2693119;Gesamtfläche;Standard;;caption;final;<NO_COMMENT>
+Standard_2694102;Logistik;Standard;;caption;final;<NO_COMMENT>
+Standard_2719247;Telefon Mobile;Standard;;caption;final;<NO_COMMENT>
+Standard_2759028;Mitgliednummer Person;Standard;;caption;exported;<NO_COMMENT>
+Standard_2685087;Gemischtes Segment;Standard;;caption;final;<NO_COMMENT>
+Standard_2689327;Zuordnung Ort/Bezirk;Standard;;caption;final;<NO_COMMENT>
+Standard_5503947;Personenbeziehungskategorie;Standard;;title;final;<NO_COMMENT>
+Standard_2730695;Hauptkommunikation;Standard;;caption;final;<NO_COMMENT>
+Standard_2759038;Kommentar Fax Geschäft;Standard;;caption;exported;<NO_COMMENT>
+Standard_2702993;Freier Text 1;Standard;;caption;final;<NO_COMMENT>
+Standard_2718522;Partner-Detail;Standard;;caption;final;<NO_COMMENT>
+Standard_2687074;Personen-Segment;Standard;;caption;final;<NO_COMMENT>
+Standard_5578257;Kurzbez.;Standard;;caption;final;B17638
+Standard_2692388;Gebäude;Standard;;caption;final;<NO_COMMENT>
+Standard_2690952;Jahresumsatz / Soll;Standard;;caption;final;<NO_COMMENT>
+Standard_2719248;Telefon Geschäft;Standard;;caption;final;<NO_COMMENT>
+Standard_2695664;Mandantenadresse;Standard;;caption;final;<NO_COMMENT>
+Standard_2689944;Adresszeile 5;Standard;;caption;final;<NO_COMMENT>
+Standard_2759051;Adress-Nummer;Standard;;caption;exported;<NO_COMMENT>
+Standard_2689334;Land/Sprachversion;Standard;;caption;final;<NO_COMMENT>
+Standard_2685376;Klasse;Standard;;caption;final;<NO_COMMENT>
+Standard_2701112;Betr. Kontakt;Standard;;caption;final;<NO_COMMENT>
+Standard_2681055;Kontakt;Standard;;caption;final;<NO_COMMENT>
+Standard_2713488;Mitarbeiter mit Adr.;Standard;;caption;final;<NO_COMMENT>
+Standard_5503943;Personenfunktion;Standard;;title;final;<NO_COMMENT>
+Standard_2685090;Werbecode;Standard;;caption;final;<NO_COMMENT>
+Standard_2695868;Personen-Funktion;Standard;;caption;final;<NO_COMMENT>
+Standard_6959063;Bearbeiten (optimierte Erfassung);Standard;;caption;final;Created by Wcl Migration
+Standard_2678997;Für Hierarchie;Standard;;caption;final;<NO_COMMENT>
+Standard_2679494;Allgemein;Standard;;caption;final;<NO_COMMENT>
+Standard_2713445;Annulliert;Standard;;caption;final;<NO_COMMENT>
+Standard_2680646;Land;Standard;;caption;final;<NO_COMMENT>
+Standard_2686992;Einfach;Standard;;caption;final;<NO_COMMENT>
+Standard_6958848;Anzeigen (optimierte Erfassung);Standard;;caption;final;Created by Wcl Migration
+Standard_2702983;Adressen;Standard;;caption;final;<NO_COMMENT>
+Standard_2692009;Kontokorrent;Standard;;caption;final;<NO_COMMENT>
+Standard_2689974;Titel;Standard;;caption;final;<NO_COMMENT>
+Standard_5507525;Kunde erfasst;Standard;;caption;exported;Is address used for a Customer
+Standard_2705947;Feldbezeichnung;Standard;;caption;final;<NO_COMMENT>
+Standard_2692421;In Evaluation;Standard;;caption;final;<NO_COMMENT>
+Standard_2679634;Mandant;Standard;;caption;final;<NO_COMMENT>
+Standard_6958647;Synchron. Kontakte Exchange;Standard;;caption;final;Created by Wcl Migration
+Standard_2691063;Personen-Beziehung Typ;Standard;;caption;final;<NO_COMMENT>
+Standard_2688167;Zugeordn. Person;Standard;;caption;final;<NO_COMMENT>
+Standard_5730718;Knz Sender;Standard;;caption;final;KZ Sender
+Standard_2688254;Filiale;Standard;;caption;final;<NO_COMMENT>
+Standard_2682069;Suchbegriff;Standard;;caption;final;<NO_COMMENT>
+Standard_5837317;Restriktion 3;Standard;;caption;exported;Restriktion 3
+Standard_2711129;Hauptstatus;Standard;;caption;final;<NO_COMMENT>
+Standard_6958207;Kopieren;Standard;;caption;final;Created by Wcl Migration
+Standard_2693529;UDC Einkauf;Standard;;caption;final;<NO_COMMENT>
+Standard_6959382;Lieferant dieser Person anzeigen;Standard;;caption;final;Created by Wcl Migration
+Standard_5504015;Personenbeziehung;Standard;;title;final;<NO_COMMENT>
+Standard_6964040;Definition Profildaten;Standard;;title;final;Profile Data Definition
+Standard_2699001;Betr. Unterneh./GE;Standard;;caption;final;<NO_COMMENT>
+Standard_2725871;Typ;Standard;;caption;final;<NO_COMMENT>
+Standard_2685089;Kontaktsegment;Standard;;caption;final;<NO_COMMENT>
+Standard_2679160;Aktiv;Standard;;caption;final;<NO_COMMENT>
+Standard_5504188;Zuordnung Benutzer - Person;Standard;;title;final;<NO_COMMENT>
+Standard_2727199;Meine Kontakte;Standard;;caption;final;<NO_COMMENT>
+Standard_2690892;Lead;Standard;;caption;final;<NO_COMMENT>
+Standard_6964000;Name überg. Segment;Standard;;caption;final;US12966
+Standard_2702312;Unternehmen/GE;Standard;;caption;final;<NO_COMMENT>
+Standard_2731615;Bearbeiten;Standard;;caption;final;<NO_COMMENT>
+Standard_2686025;Region;Standard;;caption;final;<NO_COMMENT>
+Standard_2696227;Untergeordnet;Standard;;caption;final;<NO_COMMENT>
+Standard_2717135;Allgemein;Standard;;caption;final;<NO_COMMENT>
+Standard_2684791;Versicherungsnr. 1;Standard;;caption;final;<NO_COMMENT>
+Standard_2713662;Geschäftseinheit Detail;Standard;;caption;final;<NO_COMMENT>
+Standard_2682766;Beruf;Standard;;caption;final;<NO_COMMENT>
+Standard_5482092;Allgemein;Standard;;caption;final;changed caption Wahrungsifos -- > General
+Standard_6959789;Kontakt zu meinen Beziehungen hinzufügen;Standard;;caption;final;Created by Wcl Migration
+Standard_2759674;Erweitert;Standard;;caption;exported;<NO_COMMENT>
+Standard_2685378;Zolltarifnummer;Standard;;caption;final;<NO_COMMENT>
+Standard_2713420;Kunde anzeigen;Standard;;caption;final;<NO_COMMENT>
+Standard_6958858;Benutzer dieser Person anzeigen;Standard;;caption;final;Created by Wcl Migration
+Standard_2680079;Lager;Standard;;caption;final;<NO_COMMENT>
+Standard_6958208;Suchen;Standard;;caption;final;Created by Wcl Migration
+Standard_2691146;Option;Standard;;caption;final;<NO_COMMENT>
+Standard_5503955;Partnerschaft;Standard;;title;final;<NO_COMMENT>
+Standard_2699506;Geschäftsreg. Einkauf;Standard;;caption;final;<NO_COMMENT>
+Standard_5507512;Auswahl Person;Standard;;title;exported;Person must be chosen
+Standard_2759050;Adresse Status;Standard;;caption;exported;<NO_COMMENT>
+Standard_2684505;Mittel;Standard;;caption;final;<NO_COMMENT>
+Standard_2713466;Typisierung;Standard;;caption;final;<NO_COMMENT>
+Standard_2690436;Geburtsdatum;Standard;;caption;final;<NO_COMMENT>
+Standard_2727182;Werbecode;Standard;;caption;final;<NO_COMMENT>
+Standard_2713722;Geschäftseinheit Zusatz;Standard;;caption;final;<NO_COMMENT>
+Standard_2762047;Objektnummer Mandant;Standard;;caption;exported;Object number mandant
+Standard_2688453;Vorname;Standard;;caption;final;<NO_COMMENT>
+Standard_2688410;Fläche;Standard;;caption;final;<NO_COMMENT>
+Standard_6963987;Übergeordnetes Segment;Standard;;caption;final;US12966
+Standard_2688451;Benutzer / Person;Standard;;caption;final;<NO_COMMENT>
+Standard_2713456;Kommunikation;Standard;;caption;final;<NO_COMMENT>
+Standard_2721925;Untergeordnete;Standard;;caption;final;<NO_COMMENT>
+Standard_2683934;Produktgruppe;Standard;;caption;final;<NO_COMMENT>
+Standard_2689927;Korrespondenzadresse;Standard;;caption;final;<NO_COMMENT>
+Standard_2759036;Kommentar Tel. Geschäft;Standard;;caption;exported;<NO_COMMENT>
+Standard_2719243;E-Mail Firma;Standard;;caption;final;Company eMail
+Standard_2724287;Besitzer;Standard;;caption;final;<NO_COMMENT>
+Standard_2713726;Partnerbeziehung;Standard;;caption;final;<NO_COMMENT>
+Standard_2759034;Personenart Bezeichnung;Standard;;caption;exported;<NO_COMMENT>
+Standard_2759068;Adresse Bezeichnung;Standard;;caption;exported;<NO_COMMENT>
+Standard_2759031;Benützer Name;Standard;;caption;exported;<NO_COMMENT>
+Standard_2679496;Kunde;Standard;;caption;final;<NO_COMMENT>
+Standard_2679158;Löschung vorgemerkt;Standard;;caption;final;<NO_COMMENT>
+Standard_2678830;ChangeCounter;Standard;;caption;final;<NO_COMMENT>
+Standard_2686685;Umgesetzte Nr.;Standard;;caption;final;<NO_COMMENT>
+Standard_2706005;Bild;Standard;;caption;final;<NO_COMMENT>
+Standard_2692704;Postfach;Standard;;caption;final;<NO_COMMENT>
+Standard_5502678;Kontokorrent ohne Tankstelle;Standard;;caption;exported;flag for currentaccount
+Standard_2713481;Adresse Detail;Standard;;caption;final;<NO_COMMENT>
+Standard_6019799;Freier Status 1;Standard;;caption;exported;Freier Status 1
+Standard_5503967;Partnerschaftsart;Standard;;title;final;<NO_COMMENT>
+Standard_2686078;Voller Name;Standard;;caption;final;<NO_COMMENT>
+Standard_2719244;Internet;Standard;;caption;final;<NO_COMMENT>
+Standard_5730719;Knz Empfänger;Standard;;caption;final;KZ Empfänger
+Standard_2718154;Benutzer anzeigen;Standard;;caption;final;<NO_COMMENT>
+Standard_2692417;Betreuer;Standard;;caption;final;<NO_COMMENT>
+Standard_2719855;Allgemein;Standard;;caption;final;<NO_COMMENT>
+Standard_2689929;Geschäftsadresse;Standard;;caption;final;<NO_COMMENT>
+Standard_2685339;Geografie;Standard;;caption;final;<NO_COMMENT>
+Standard_2692389;Stock;Standard;;caption;final;<NO_COMMENT>
+Standard_2687926;Kategorieart;Standard;;caption;final;<NO_COMMENT>
+Standard_2705973;PLZ / Ort;Standard;;caption;final;<NO_COMMENT>
+Standard_6959376;Person Finder;Standard;;caption;final;Created by Wcl Migration
+Standard_5724923;Zertifikat;Standard;;caption;final;R69999
+Standard_2683135;Nächster Kontakt;Standard;;caption;final;<NO_COMMENT>
+Standard_2678821;ME;Standard;;caption;final;<NO_COMMENT>
+Standard_5504011;Zuordnung Ort - Bezirk;Standard;;title;final;<NO_COMMENT>
+Standard_2695156;Gewinn;Standard;;caption;final;<NO_COMMENT>
+Standard_2716783;Zuget. Kontakte/Unternehmen;Standard;;caption;final;<NO_COMMENT>
+Standard_6958497;Adresseigner wechseln;Standard;;caption;final;Created by Wcl Migration
+Standard_5730676;EDI;Standard;;caption;final;EDI
+Standard_2683049;Nicht definiert;Standard;;caption;final;<NO_COMMENT>
+Standard_2732663;Bitte wählen sie eine Personenart aus;Standard;;instruction;final;<NO_COMMENT>
+Standard_2685502;Klassifizierung;Standard;;caption;final;<NO_COMMENT>
+Standard_2759329;Personenart Code;Standard;;caption;exported;<NO_COMMENT>
+Standard_2722235;Untergeordnete Geografie;Standard;;caption;final;<NO_COMMENT>
+Standard_2759054;E-Mail Geschäft 1;Standard;;caption;final;Company eMail 1
+Standard_2691219;Jubiläum;Standard;;caption;final;<NO_COMMENT>
+Standard_6023567;Alte Adressnummer;Standard;;caption;final;Alte Adressnummer
+Standard_6958895;Kunde passend zur Person;Standard;;caption;final;Created by Wcl Migration
+Standard_5573125;Telefon P;Standard;;caption;final;Telefon P
+Standard_2730855;Zuordnung Personenart -Beziehungsart;Standard;;caption;final;<NO_COMMENT>
+Standard_2678858;Code;Standard;;caption;final;<NO_COMMENT>
+Standard_7006451;Parzelle;Standard;;title;exported;Parcel
+Standard_7006514;Parzelle Detail;Standard;;title;exported;Parcel Detail
+Standard_7006496;Zuordnung Parzelle-Zertifikat;Standard;;title;final;Parcel Certification Assignment
+Standard_2720525;Zugeteilte Geografie;Standard;;caption;final;<NO_COMMENT>
+Standard_2691062;Segment;Standard;;caption;final;<NO_COMMENT>
+Standard_2692425;Partnerschaft;Standard;;caption;final;<NO_COMMENT>
+Standard_2726690;Überg. Firma;Standard;;caption;final;<NO_COMMENT>
+Standard_2759335;Organisationsfunktion Code;Standard;;caption;exported;<NO_COMMENT>
+Standard_2686149;Umgekehrte Bez.Art;Standard;;caption;final;<NO_COMMENT>
+Standard_2684603;Intern;Standard;;caption;final;<NO_COMMENT>
+Standard_6964007;Unternehmensprofil Segment;Standard;;caption;final;US12966
+Standard_6959530;Login für Kontakt erstellen;Standard;;caption;final;Created by Wcl Migration
+Standard_2713444;Abgeschlossen;Standard;;caption;final;Completed
+Standard_2719249;Telefon Privat;Standard;;caption;final;<NO_COMMENT>
+Standard_2689930;Privatadresse;Standard;;caption;final;<NO_COMMENT>
+Standard_2696090;Organisationseinheit;Standard;;caption;final;<NO_COMMENT>
+Standard_2713424;Arbeitgeber;Standard;;caption;final;<NO_COMMENT>
+Standard_2695157;Adresseigner;Standard;;caption;final;<NO_COMMENT>
+Standard_5503966;Partner;Standard;;title;final;<NO_COMMENT>
+Standard_2680091;Mitarbeiter;Standard;;caption;final;<NO_COMMENT>
+Standard_2678853;Kommentar;Standard;;caption;final;<NO_COMMENT>
+Standard_2687687;URL;Standard;;caption;final;<NO_COMMENT>
+Standard_2759027;Zustand Person;Standard;;caption;exported;<NO_COMMENT>
+Standard_2710097;ME;Standard;;caption;final;<NO_COMMENT>
+Standard_2680887;Kopieren;Standard;;caption;final;<NO_COMMENT>
+Standard_2682768;Telefonnummer;Standard;;caption;final;<NO_COMMENT>
+Standard_2681182;Bereit Reorganisation;Standard;;caption;final;<NO_COMMENT>
+Standard_2732011;Schnelländerung;Standard;;caption;final;<NO_COMMENT>
+Standard_2685098;Übergeordnet;Standard;;caption;final;<NO_COMMENT>
+Standard_2766123;Konsolidiert;Standard;;caption;exported;consolidated
+Standard_2713447;Hauptkontakt;Standard;;caption;final;<NO_COMMENT>
+Standard_5583513;Zuständige Person;Standard;;caption;final;Zuständige Person
+Standard_6959220;Dublettenprüfung;Standard;;caption;final;Created by Wcl Migration
+Standard_2695152;Produktrayon;Standard;;caption;final;<NO_COMMENT>
+Standard_5504243;Region;Standard;;title;final;<NO_COMMENT>
+Standard_6996883;Nein;Standard;;caption;final;<NO_COMMENT>
+Standard_6996884;Herstelleradresse;Standard;;caption;final;<NO_COMMENT>
+Standard_6996882;Ja;Standard;;caption;final;<NO_COMMENT>
